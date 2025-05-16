@@ -1,1 +1,1 @@
-// Homepage component content will be inserted separately based on the latest layout specs.
+// Final homepage layout goes here
