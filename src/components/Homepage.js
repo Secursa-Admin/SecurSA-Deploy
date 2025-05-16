@@ -3,7 +3,7 @@ export default function Homepage() {
   return (
     <div className="min-h-screen bg-white text-[#00205B]">
       <header className="p-6 text-center">
-        <img src="/logo.png" alt="SecurSA Logo" className="mx-auto h-28" />
+        <img src="/logo.png" alt="SecurSA Logo" className="mx-auto h-60 mb-6" />
       </header>
 
       <section className="flex flex-col md:flex-row justify-between items-center px-6 py-10">
